@@ -27252,7 +27252,7 @@ aCC(a){var s=0,r=A.K(t.eU),q,p,o,n,m,l,k,j,i
 var $async$aCC=A.L(function(b,c){if(b===1)return A.H(c,r)
 while(true)switch(s){case 0:j=A.b([],t.gd)
 s=3
-return A.O(a.wF(0,"https://raw.githubusercontent.com/AnuroopFarkya11/Anuroop_Farya_Portfolio/refs/heads/main/projects_details",t.z),$async$aCC)
+return A.O(a.wF(0,"https://raw.githubusercontent.com/AnuroopFarkya11/Anuroop_Farya_Portfolio/refs/heads/main/projects_details.json",t.z),$async$aCC)
 case 3:i=c
 if(i.b==null)try{p=B.bk.I8(0,i.a,null)
 l=J.kL(p,new A.aCD(),t.Mz)
